@@ -1,3 +1,3 @@
-<h1 align="center">
-  <span style="font-size: 50px; color: #9b59b6;">chaos-bot</span>
-</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/chaos--bot-purple?style=for-the-badge&logo=probot&logoColor=white&color=6c5ce7" alt="chaos-bot" height="60">
+</p>
